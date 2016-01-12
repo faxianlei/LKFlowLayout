@@ -1,2 +1,4 @@
 # LKFlowLayout
-LKFlowLayout
+###史上最NB的瀑布流
+####近期将对框架作出使用说明
+#####谢谢使用！
